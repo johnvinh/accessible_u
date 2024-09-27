@@ -64,8 +64,8 @@ p {
  *
  */
 a {
-  color: #777777;
-	text-decoration: none;
+  color: green;
+	text-decoration: underline;
 }
 /*
  * Provide additional visual cues to mouse users only
